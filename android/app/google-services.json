@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "743670930792",
+    "project_id": "loka-dc7a4",
+    "storage_bucket": "loka-dc7a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743670930792:android:638a81227776638af88add",
+        "android_client_info": {
+          "package_name": "com.example.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743670930792-glflk7a0hakoiemkk1vkphvoehv2a4u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home",
+            "certificate_hash": "e7cf39d0a089fdb3273b48d6c9f78616c8332c24"
+          }
+        },
+        {
+          "client_id": "743670930792-0b55sgkgb0r7noi29on01bl33nrvok3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe0BELb624KzFuinR5ZFh-Vc3u61uxh40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743670930792-0b55sgkgb0r7noi29on01bl33nrvok3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
